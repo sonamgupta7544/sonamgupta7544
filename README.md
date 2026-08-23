@@ -7,7 +7,7 @@
 
 🏥 Currently working at **DigiTech Healthcare**, where I develop and maintain healthcare solutions using PHP and modern web technologies.
 
-🚀 Experienced with **PHP, Laravel, JavaScript, jQuery, HTML5, CSS3, Bootstrap, MySQL, Git, and REST APIs**.
+🚀 Experienced with **PHP, JavaScript, HTML5, CSS3, Bootstrap, MySQL, Git, and REST APIs**.
 
 🌱 Constantly learning new technologies and best practices to write clean, efficient, and maintainable code.
 
