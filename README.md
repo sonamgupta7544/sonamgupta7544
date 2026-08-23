@@ -1,4 +1,18 @@
 
+# Hi 👋, I'm Sonam Gupta
+
+## 👩‍💻 About Me
+
+💼 **Full Stack PHP Developer** passionate about building secure, scalable, and user-friendly web applications.
+
+🏥 Currently working at **DigiTech Healthcare**, where I develop and maintain healthcare solutions using PHP and modern web technologies.
+
+🚀 Experienced with **PHP, Laravel, JavaScript, jQuery, HTML5, CSS3, Bootstrap, MySQL, Git, and REST APIs**.
+
+🌱 Constantly learning new technologies and best practices to write clean, efficient, and maintainable code.
+
+✨ I enjoy solving real-world problems through technology and creating applications that deliver meaningful user experiences.
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sonam-gupta) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Sonam Gupta) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sonamgpt2003@gmail.com) 
 
